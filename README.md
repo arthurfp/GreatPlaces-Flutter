@@ -1,6 +1,8 @@
-# great_places
+# GreatPlaces
 
-A new Flutter project.
+A simple location store app developed while learning flutter.
+
+Code used for Aprenda Flutter e Desenvolva Apps Para Android e IOS 2022 Course.
 
 ## Getting Started
 
